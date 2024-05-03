@@ -3,3 +3,6 @@ https://codingalzi.github.io/datapy/casestudy_california_housing.html
 [금융데이터]
 https://github.com/FinanceData/FinanceDataReader
 pip install finance-datareader seaborn
+
+[ML 학습자료]
+https://sigmadream.github.io/practice-dl/
